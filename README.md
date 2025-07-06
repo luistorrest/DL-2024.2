@@ -65,12 +65,16 @@ Se trata de un **problema de clasificación supervisada** donde cada imagen JPEG
 - Futuras mejoras incluyen: aumento de datos, arquitectura más robusta, y reformulación del problema como verificación (retrieval) en lugar de clasificación directa.
 
 ---
+## ✅ Conclusión
+Los bajos resultados obtenidos se deben principalmente al alto desbalance del dataset y al uso de una arquitectura CNN básica, insuficiente para un problema con más de 4000 clases. Esto limita la capacidad del modelo para generalizar, resultando en una precisión cercana al azar y claros signos de sobreajuste.
 
+---
 ## 🚀 Autor
-Este proyecto fue desarrollado como parte de una evaluación académica.  
+Este proyecto fue desarrollado como parte de una evaluación académica por: 
 - Andrés Peña
 - Daniel Quiroz
-- Luis Torres 
-
+- Luis Torres
+  
+---
 ## Video explicativo
 Youtube: https://youtu.be/-AVbJX7D798
